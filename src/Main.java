@@ -69,6 +69,7 @@ public class Main {
             result.append(digitNames[digit]);
         }
 
+
         return result.toString();
     }
 
