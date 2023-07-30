@@ -66,7 +66,6 @@ public class Main {
             if (i > 0) {
                 result.append(" ");
             }
-
             result.append(digitNames[digit]);
         }
 
